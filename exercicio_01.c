@@ -2,16 +2,14 @@
 
 int main() {
     // 1. Duas variáveis inteiras
-    int anoNascimento;
-    int anoAtual;
+    char nome[50], sobrenome[50];
 
-    // 2. Atribuir valores às variáveis
-    anoNascimento = 2000;
-    anoAtual = 2026;
-
-    // 3. Exibir as informações na tela
-    printf("Ano de nascimento: %d\n", anoNascimento);
-    printf("Ano atual: %d\n", anoAtual);
+    // 2. Exibir as informações na tela
+    printf("Digite seu nome: ");
+    scanf("%s", nome);  
+    printf("Digite seu sobrenome: ");
+    scanf("%s", sobrenome);
+    printf("Nome completo: %s %s\n", nome, sobrenome);
 
     return 0;
 }
