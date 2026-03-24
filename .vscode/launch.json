@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mario/Documents/projeto_C",
-      "program": "c:/Users/mario/Documents/projeto_C/build/Debug/outDebug",
+      "cwd": "c:/Users/mario/Documents/Curso_ADS_primeiro_semestre/Aula_01",
+      "program": "c:/Users/mario/Documents/Curso_ADS_primeiro_semestre/Aula_01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
